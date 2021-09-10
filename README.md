@@ -11,4 +11,4 @@
 
 ```
 
-[![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanmiteko&theme=prussian&layout=compact)](https://github.com/shanmiteko)
+<!-- [![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanmiteko&theme=prussian&layout=compact)](https://github.com/shanmiteko) -->
