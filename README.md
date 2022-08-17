@@ -1,4 +1,4 @@
-<a href="https://github.com/shanmiteko"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmiteko&theme=prussian&layout=compact" alt="top-langs"></img></a>
+<a href="https://github.com/shanmiteko"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmiteko&theme=prussian&layout=compact&hide=handlebars,css" alt="top-langs"></img></a>
 <!-- <pre><code>
           __                                      __   __              
          |  \                                    |  \ |  \             
